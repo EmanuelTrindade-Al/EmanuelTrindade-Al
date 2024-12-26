@@ -9,7 +9,7 @@
 <p>Formado em Análise e Desenvolvimento de Sistemas ♥ </p>
 <p> • Cursando🎲: Data Science </p>
 <p> • Linguagens🎮: JAVA, Python, HTM, </p>
-<p> • Idiomas: Inglês, LIBRAS (Lingua Brasileira de Sinais </p>
+<p> • Idiomas: Inglês, LIBRAS (Lingua Brasileira de Sinais) </p>
 
 <h2>Conhecimentos / Estudando </h2>
 
@@ -20,9 +20,10 @@
 
 
 ![Snake animation](https://github.com/juliaeduarda-rg/juliaeduarda-rg/blob/output/github-contribution-grid-snake.svg)
-
 ##
-
+##
+##
+##
   ## 💻 Habilidades
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
