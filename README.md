@@ -12,13 +12,12 @@
 <p> • Idiomas: Inglês, LIBRAS (Lingua Brasileira de Sinais) </p>
 
 
+
   <img  align="left"  width="500px" src="https://github-readme-stats.vercel.app/api?username=EmanuelTrindade-Al&show_icons=true&theme=gruvbox_light"/>
   <img  align="left"  width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelTrindade-Al&hide=shell&theme=gruvbox_light"/>
 
 
 ![Snake animation](https://github.com/juliaeduarda-rg/juliaeduarda-rg/blob/output/github-contribution-grid-snake.svg)
-##
-##
 ##
 ##
   ## 💻 Habilidades
