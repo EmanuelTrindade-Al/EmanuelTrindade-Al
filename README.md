@@ -1,8 +1,9 @@
 # 🌟 Meu Projeto Incrível 🌟
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/4CAF50/FFFFFF?text=Cabeçalho+Personalizado" alt="Cabeçalho Personalizado">
+  <img src="https://via.placeholder.com/800x200/4CAF50/FFFFFF?text=Emanuel+Trindade" alt="Nome animado">
 </p>
+
 
 ## 📝 Sobre o Projeto
 Descrição breve sobre o projeto e suas funcionalidades principais.
