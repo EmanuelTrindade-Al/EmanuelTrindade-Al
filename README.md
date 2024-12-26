@@ -11,9 +11,6 @@
 <p> • Linguagens🎮: JAVA, Python, HTM, </p>
 <p> • Idiomas: Inglês, LIBRAS (Lingua Brasileira de Sinais) </p>
 
-<h2>Conhecimentos / Estudando </h2>
-
-![SQL](https://img.shields.io/badge/SQL-1C6758?style=for-the-badge)
 
   <img  align="left"  width="500px" src="https://github-readme-stats.vercel.app/api?username=EmanuelTrindade-Al&show_icons=true&theme=gruvbox_light"/>
   <img  align="left"  width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelTrindade-Al&hide=shell&theme=gruvbox_light"/>
