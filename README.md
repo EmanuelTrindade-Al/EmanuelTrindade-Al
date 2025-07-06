@@ -8,8 +8,8 @@
 <h2>✨Sobre mim✨</h2>
 <p>Formado em Análise e Desenvolvimento de Sistemas ♥ </p>
 <p> • Cursando🎲: Data Science </p>
-<p> • Linguagens🎮: JAVA, Python, HTM, </p>
-<p> • Idiomas: Inglês, LIBRAS (Lingua Brasileira de Sinais) </p>
+<p> • Linguagens🎮: JAVA, Python, HTM, JavaScript, CSS </p>
+<p> • Idiomas: Português (Nativo), Inglês (intermediário) , LIBRAS (Fluente) </p>
 
 
 
