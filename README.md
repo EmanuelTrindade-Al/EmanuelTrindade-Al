@@ -20,11 +20,22 @@
 ![Snake animation](https://github.com/juliaeduarda-rg/juliaeduarda-rg/blob/output/github-contribution-grid-snake.svg)
 ##
 ##
-  ## 💻 Habilidades
+ ## 💻 Habilidades
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>&nbsp;
 </div>
+
+<p align="center">
+  <strong>Linguagens:</strong> Python, Java, HTML5, CSS3, JavaScript<br/>
+  <strong>Banco de Dados:</strong> MySQL, Firebase<br/>
+  <strong>Ferramentas:</strong> Git, GitHub, VS Code<br/>
+  <strong>Outros:</strong> Desenvolvimento Web, Android, Data Science
+</p>
+
 
 </p>
